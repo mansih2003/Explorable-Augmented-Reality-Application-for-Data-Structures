@@ -37,4 +37,7 @@ select one of the data structures from the main menu to experience the concepts
 
 <img width="156" alt="image" src="https://user-images.githubusercontent.com/77117188/214896234-0fd7fcfb-4ccb-40f1-9d3d-aa8ca86a5c29.png">
 
+>  The stack module is simulating the operation of removing objects from the stack, the shoes are removed one by one from the top to the bottom in the form of “Last 
+in First out".
+
 
