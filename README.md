@@ -12,3 +12,15 @@
 >  shows the main menu of the developed AR application. The main menu and sub-menus are kept as simple as possible to decrease user interface complexity. Users can 
 select one of the data structures from the main menu to experience the concepts
 
+--------
+### Linked List 
+
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/77117188/214893849-b9f89a55-51b9-44bb-af5c-9f0f7a0d356b.png">
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/77117188/214894000-b1239aa0-a09e-4804-83a1-5b51ce937862.png">
+> represents the dragging of chain links next to each other for appending and the C code for addition/appending of linked list is being shown in a scroll view at the right side of the screen
+
+<img width="414" alt="image" src="https://user-images.githubusercontent.com/77117188/214894316-fc2c5e0d-96b2-4f24-a295-d80154316495.png">
+> shows the addition of chain link between the 2 other chain links, the chain links shift one position right clearing up a position for the chain link to be added in between
+> A similar operation can be performed for removal of the linked list too
+
+
