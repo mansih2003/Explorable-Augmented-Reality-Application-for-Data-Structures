@@ -1,3 +1,2 @@
-Augmented Reality for Teaching Data Structures in Computer Science
-SATHWICK P  SEM - 4  PES1UG20CS388
-Department of Computer Science, Centre for Internet of Things, PES University
+The data structure course is the most essential and critical course for computing-related majors because it is one of the fundamental courses that needs to be taken by students. 
+However, learning data structures and understanding the performance effects of  distinct data structures on the same problem can be challenging. Mostly, students  change their majors if they are not successful in this course in their first attempt.
