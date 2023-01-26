@@ -40,4 +40,15 @@ select one of the data structures from the main menu to experience the concepts
 >  The stack module is simulating the operation of removing objects from the stack, the shoes are removed one by one from the top to the bottom in the form of “Last 
 in First out".
 
+----------
+### Queue
+
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/77117188/214896882-e5439751-8943-4a9b-8a8d-d5aaad0ec446.png">
+>  Shows the 3d model of the rack which is representing the Queue data structure, the C code for getting the front of the queue is shown in a scroll view at the right side of the screen
+
+<img width="378" alt="image" src="https://user-images.githubusercontent.com/77117188/214896952-599f58ca-365e-46c1-88fc-abadad682e15.png">
+>  shows the enqueue operation where shoes are being added to the rack from right to left, a pointer/arrow points at the most recently added node. The C code for enqueue operation is shown at the right side of the screen
+
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/77117188/214897040-4cc86551-6efd-4abe-950e-5936824bc49c.png">
+>  shows the dequeue operation where shoes are being removed from the right side/front of the queue, when shoe is removed the rest of the shoes in the queue shift  one position forward to occupy the empty spaces in the queue following the “First in First out” pattern.
 
