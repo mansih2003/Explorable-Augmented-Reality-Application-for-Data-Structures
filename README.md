@@ -7,4 +7,7 @@
 5. I've developed an AR application that visualizes some operations of data structures such as Array list, Linked list, and Stack. In order to develop an AR application, we have followed AR requirements such as integration of virtual objects or environment into the real environment; and real-time interactivity of the virtual and real objects at the same time
 --------
 #### User Interface 
-<img width="408" alt="image" src="https://user-images.githubusercontent.com/77117188/214892470-d5f83b1b-d30e-4155-bf7f-4adab3b8aee3.png">
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/77117188/214892682-7b8a21b9-2a57-4870-8fe3-0c78ca907ab0.png">
+> shows the main menu of the developed AR application. The main menu and submenus are kept as simple as possible to decrease user interface complexity. Users can 
+select one of the data structures from the main menu to experience the concepts
+
