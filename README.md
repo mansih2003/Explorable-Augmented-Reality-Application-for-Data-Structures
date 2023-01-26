@@ -55,3 +55,30 @@ in First out".
 
 >  shows the dequeue operation where shoes are being removed from the right side/front of the queue, when shoe is removed the rest of the shoes in the queue shift  one position forward to occupy the empty spaces in the queue following the “First in First out” pattern.
 
+-----------
+### Future Works 
+There is much improvement that can be made in the future in terms of development and experiments. This section will detail some of the ideas that have been considered for features that future groups can develop.
+
+A. Expanded Object Addition 
+The ability to choose from a wider array of objects to add to a data structure 
+would improve the user experience. For example, being able to add objects like 
+bread, tomato, lettuce, cheese, etc. to a data structure can be more attractive 
+because students can “make a sandwich” type things with their list. This would 
+work exceptionally well with the Stack data structure. This would be a simple 
+way to improve user engagement with the application. Adding basic shapes to a 
+data structure is interesting, but adding some more realistic objects to the 
+program would be an exciting feature. This would require some work with the 
+user interface as well as in the Unity Asset Store to find these objects.
+
+B. Expanded Data Structure Selection 
+The current application supports Linked List, Array List, and Stack. There are 
+many other types of data structures that students need to learn. Adding some 
+other data structures like AVL Tree, Heap, Queue, and HashMap would benefit 
+students. Currently, we are working on adding Binary Search Tree and Queue.
+
+C. Improved AR Stability and Recognition
+Improved AR Stability and Recognition As it stands, the application requires the 
+use of a “target image” to function. We chose the Marshall University Logo as our 
+target image. This is partly a limitation of the Vuforia framework. Along with the 
+elimination of the target image requirement, improved stability for the objects in 
+the AR environment will increase the usability of the application
