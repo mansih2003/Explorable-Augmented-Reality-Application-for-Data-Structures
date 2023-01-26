@@ -26,4 +26,15 @@ select one of the data structures from the main menu to experience the concepts
  
 >  A similar operation can be performed for removal of the linked list too
 
+---------
+### Stack
+
+<img width="178" alt="image" src="https://user-images.githubusercontent.com/77117188/214895952-3684eace-33d5-46fe-8fc2-a1ec76461943.png">
+<img width="173" alt="image" src="https://user-images.githubusercontent.com/77117188/214896064-41bce537-c57e-4433-945d-63b50d5af670.png">
+
+
+>  The stack module is being simulated using a shoe rack with shoes inside. On the press of add button the shoes are being added to the rack one by one from bottom to the top.
+
+<img width="156" alt="image" src="https://user-images.githubusercontent.com/77117188/214896234-0fd7fcfb-4ccb-40f1-9d3d-aa8ca86a5c29.png">
+
 
