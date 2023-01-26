@@ -21,8 +21,8 @@ select one of the data structures from the main menu to experience the concepts
 >  Represents the dragging of chain links next to each other for appending and the C code for addition/appending of linked list is being shown in a scroll view at the right side of the screen
 
 <img width="414" alt="image" src="https://user-images.githubusercontent.com/77117188/214894316-fc2c5e0d-96b2-4f24-a295-d80154316495.png">
-> oij
->  Shows the addition of chain link between the 2 other chain links, the chain links shift one position right clearing up a position for the chain link to be added in between
+
+>  Shows the addition of chain link between the 2 other chain links, the chain links shift one position right clearing up a position for the chain link to be added in between /n
 >  A similar operation can be performed for removal of the linked list too
 
 
