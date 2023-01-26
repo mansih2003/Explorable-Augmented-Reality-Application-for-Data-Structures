@@ -22,7 +22,8 @@ select one of the data structures from the main menu to experience the concepts
 
 <img width="414" alt="image" src="https://user-images.githubusercontent.com/77117188/214894316-fc2c5e0d-96b2-4f24-a295-d80154316495.png">
 
->  Shows the addition of chain link between the 2 other chain links, the chain links shift one position right clearing up a position for the chain link to be added in between /n
+>  Shows the addition of chain link between the 2 other chain links, the chain links shift one position right clearing up a position for the chain link to be added in between
+ 
 >  A similar operation can be performed for removal of the linked list too
 
 
