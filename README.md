@@ -8,6 +8,7 @@
 --------
 #### User Interface 
 <img width="405" alt="image" src="https://user-images.githubusercontent.com/77117188/214892682-7b8a21b9-2a57-4870-8fe3-0c78ca907ab0.png">
-> shows the main menu of the developed AR application. The main menu and submenus are kept as simple as possible to decrease user interface complexity. Users can 
+
+>  shows the main menu of the developed AR application. The main menu and sub-menus are kept as simple as possible to decrease user interface complexity. Users can 
 select one of the data structures from the main menu to experience the concepts
 
