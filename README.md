@@ -82,3 +82,7 @@ use of a “target image” to function. We chose the Marshall University Logo a
 target image. This is partly a limitation of the Vuforia framework. Along with the 
 elimination of the target image requirement, improved stability for the objects in 
 the AR environment will increase the usability of the application
+
+
+
+/// HOW TO RUN THIS
